@@ -28,7 +28,7 @@
     echo "<p>CPF: {$contato->getDescricao()} </p>";
     echo "<hr>";
     echo "<pre>" ;
-        var_dump($pessoa);
+        var_dump($contato);
     echo "</pre>";
 
     
